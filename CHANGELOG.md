@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Initial extraction as `pewresearch/wp-html-processors`.
+- Initial extraction as `prc/wp-html-processors` (GitHub: `pewresearch/wp-html-processors`).
 - `PRC\Html\TableProcessor`, `HeadingProcessor`, and `ElementFinder` (namespaced successors to the former `WP_HTML_*` classes).
 - Procedural helpers: `parse_table_block_into_array()`, `parse_document_for_headings()`, `update_document_headings_with_ids()`.
 - Composer PSR-4 autoloading and PHPUnit + PHPCS tooling.

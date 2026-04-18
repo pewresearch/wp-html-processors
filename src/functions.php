@@ -2,7 +2,7 @@
 /**
  * Procedural helpers for HTML processors.
  *
- * @package pewresearch/wp-html-processors
+ * @package prc/wp-html-processors
  */
 
 declare(strict_types=1);

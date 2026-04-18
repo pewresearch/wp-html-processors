@@ -1,5 +1,5 @@
 {
-	"name": "pewresearch/wp-html-processors",
+	"name": "prc/wp-html-processors",
 	"description": "PHP HTML parsing utilities that extend WP_HTML_Tag_Processor for extracting structured data from WordPress block output.",
 	"type": "library",
 	"license": "GPL-2.0-or-later",

@@ -2,7 +2,7 @@
 /**
  * PHPUnit bootstrap: loads Composer autoloader and the WordPress test suite.
  *
- * @package pewresearch/wp-html-processors
+ * @package prc/wp-html-processors
  */
 
 declare(strict_types=1);

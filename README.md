@@ -9,6 +9,8 @@ PHP HTML parsing utilities that extend WordPress core’s `WP_HTML_Tag_Processor
 
 ## Install
 
+The Composer package name is **`prc/wp-html-processors`**, while the Git repository lives at **`pewresearch/wp-html-processors`**.
+
 Add a VCS repository (Composer does not host first-class PHP packages on GitHub Packages; a public GitHub repo is enough):
 
 ```json
@@ -20,7 +22,7 @@ Add a VCS repository (Composer does not host first-class PHP packages on GitHub 
     }
   ],
   "require": {
-    "pewresearch/wp-html-processors": "^1.0"
+    "prc/wp-html-processors": "^1.0"
   }
 }
 ```

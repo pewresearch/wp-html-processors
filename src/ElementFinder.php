@@ -2,7 +2,7 @@
 /**
  * Find element markup by tag and id within HTML.
  *
- * @package pewresearch/wp-html-processors
+ * @package prc/wp-html-processors
  */
 
 declare(strict_types=1);

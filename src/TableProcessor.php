@@ -2,7 +2,7 @@
 /**
  * Table HTML processor built on WP_HTML_Tag_Processor.
  *
- * @package pewresearch/wp-html-processors
+ * @package prc/wp-html-processors
  */
 
 declare(strict_types=1);

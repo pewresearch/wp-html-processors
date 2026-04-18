@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <ruleset name="wp-html-processors">
-	<description>PHPCS configuration for pewresearch/wp-html-processors</description>
+	<description>PHPCS configuration for prc/wp-html-processors</description>
 
 	<file>src</file>
 	<file>tests</file>
